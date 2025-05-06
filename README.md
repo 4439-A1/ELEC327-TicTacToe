@@ -1,1 +1,5 @@
-This is the Final Project for our group for ELEC 327 Spring 2025 Semester. The goal for the final project is to create a low-power embedded system that recreates the game of Tic-Tac-Toe in a fun way. We used an MSPM03507 Launchpad to interact with a PCB that we designed to activate a vibration motor. In order to activate the game, we used a 4x4 Adarfruit Neotrellis Board with elastometer and implemented the game state machine on the board using an Arduino Nano Every via I2C.
+# Adafruit_Seesaw [![Build Status](https://github.com/adafruit/Adafruit_Seesaw/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_Seesaw/actions)[![Documentation](https://github.com/adafruit/ci-arduino/blob/master/assets/doxygen_badge.svg)](http://adafruit.github.io/Adafruit_Seesaw/html/index.html)
+
+Arduino driver for seesaw multi-use chip
+
+Check out the [documentation](https://adafruit.github.io/Adafruit_Seesaw/html/class_adafruit__seesaw.html) for a listing and explanation of the available methods!
